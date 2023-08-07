@@ -1,6 +1,6 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Tip calculator app solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Tip calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Overview
 
@@ -13,22 +13,24 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/fasterv410/qr-code](https://github.com/fasterv410/qr-code)
-- Live Site URL: [https://fasterv410.github.io/qr-code](https://fasterv410.github.io/qr-code)
+- Solution URL: [https://github.com/fasterv410/tip-calculator](https://github.com/fasterv410/tip-calculator)
+- Live Site URL: [https://fasterv410.github.io/tip-calculator](https://fasterv410.github.io/tip-calculator)
 
 ## My process
 
 ### Built with
 
 - [TailwindCSS](https://tailwindcss.com/)
+- [Vuejs](https://vuejs.org/)
 - Semantic HTML5 markup
 
 ### What I learned
 
 - Flexbox
 - TailwindCSS
-- Tailwind config
 - Centering elements
+- Vuejs
+- Composition API
 
 ## Author
 
